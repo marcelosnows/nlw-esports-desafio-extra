@@ -3,7 +3,7 @@
 
 > Trilha Explorer - Desafio Extra
 
-![preview](./.github/preview-desafio-extra.png)
+![preview](./.github/preview-extra.png)
 
 
 Proposta desenvolvida como Desafio Extra no evento Next Level Week da Rocketseat. 🚀
