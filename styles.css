@@ -118,7 +118,7 @@ to {
     border: 2px solid #FFFFFF;
 }
 
-/* animation */
+/* CSS animation */
 
 header div {
     animation: fromTop .7s .2s backwards;
